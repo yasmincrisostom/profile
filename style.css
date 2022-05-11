@@ -23,6 +23,9 @@
   border: 1px solid lightgrey;
 }
 
+.card:hover {
+  transform: scale(1.02);
+}
 
 .img-circle {
   width: 120px;
